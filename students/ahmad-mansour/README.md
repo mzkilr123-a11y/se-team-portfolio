@@ -26,3 +26,4 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 01 | HTTP Methods: GET vs. POST Analysis | Web Development | 2026-10-19 | Completed | [View Task](tasks/web-development/get-vs-post.md) |
 | 02 | First Website & Nested Lists (HTML) | Web Development | 2026-10-19 | Completed | [View Task](tasks/web-development/first-website/) |
+| 03 | Links, Anchors, Tables & Images (Assignment 2) | Web Development | 2026-10-27 | Completed | [View Task](tasks/web-development/assignment-02/) |

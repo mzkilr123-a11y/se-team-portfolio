@@ -14,8 +14,8 @@ Each team member maintains a dedicated directory under [`students/`](students/) 
 
 | Student Name | Academic Role / Focus | GitHub Username | Portfolio Directory |
 | :--- | :--- | :--- | :--- |
-| **Ahmad Mohamed Said Mansour** (Team Lead) | Software Engineering / Automation / LLMs | [@mzkilr123-a11y](https://github.com/mzkilr123-a11y) | [Ahmad's Portfolio](students/ahmad-mansour/) |
-| *Teammate 2* | Software Engineering | *Pending* | [students/teammate-2/](students/) |
+| **Ahmad Mohamed Said Mansour** (Team Lead) | Software Engineering / Automation / LLMs | [@mzkilr123-a11y](https://github.com/mzkilr123-a11y) | [Ahmad Mansour's Portfolio](students/ahmad-mansour/) |
+| **Ahmad Nashat** | Software Engineering | *Pending* | [Ahmad Nashat's Portfolio](students/ahmad-nashat/) |
 | *Teammate 3* | Software Engineering | *Pending* | [students/teammate-3/](students/) |
 | *Teammate 4* | Software Engineering | *Pending* | [students/teammate-4/](students/) |
 
